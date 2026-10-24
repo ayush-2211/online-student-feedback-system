@@ -70,3 +70,5 @@ Body: `{ "code", "title", "semester", "credits", "facultyId", "description" }`. 
 
 ### DELETE /courses/:id
 Deletes the course; its enrolments and feedback are removed by `ON DELETE CASCADE`.
+
+Last reviewed: October 2026.

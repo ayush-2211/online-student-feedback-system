@@ -100,3 +100,5 @@ See [docs/API.md](docs/API.md) for request and response details.
 - `main` always holds working code.
 - New work happens on a `feature/<name>` branch and is merged through a pull request that closes its issue (for example `Closes #1`).
 - Commit messages follow the pattern `type(scope): summary`, such as `feat(server): add feedback route`.
+
+Last updated: October 2026.
